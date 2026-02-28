@@ -1,0 +1,5 @@
+AUC_ROC,accuracy,f1,model,run_tag,sample_size_target,train_time_sec,weightedPrecision,weightedRecall
+0.999999,1.0,1.0,LogisticRegression,20260227_082713,120000,62.7489,1.0,1.0
+1.0,1.0,1.0,DecisionTree,20260227_082713,120000,14.9329,1.0,1.0
+1.0,1.0,1.0,RandomForest,20260227_082713,120000,56.3417,1.0,1.0
+1.0,1.0,1.0,GBT,20260227_082713,120000,47.2957,1.0,1.0
